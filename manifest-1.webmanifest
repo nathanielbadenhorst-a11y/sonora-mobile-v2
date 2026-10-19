@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "SONORA \u2014 The Future Sounds Different",
+  "short_name": "SONORA",
+  "description": "Create and play instrumental sketches in SONORA.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#17151f",
+  "theme_color": "#17151f",
+  "icons": [
+    {
+      "src": "./sonora-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./sonora-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
